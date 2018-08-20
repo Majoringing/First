@@ -1,5 +1,7 @@
 public class Test{
 		public int method(){
+			 System.out.println("ÄãºÃ");
 			 return null;
+			 
 		}
 	}
